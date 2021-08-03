@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "western-arch-321815",
+  "private_key_id": "b7284d91b6f50441065686b32a40c760d9f02412",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/a+7/VXnrUzd5\n7bitE0umM4hg1IS6yFH3xqNSh/4nKwTaw8yHIMRcTd6NgN4knlfEpscw/6URXPlI\njFLC9W2zblVzBQMKmlYgk3SYwGzFS+onanagJgcN6TivpToyqu2i99cCa6vLr5cU\nF1oX+36QqgSRTXOqOXrDfRYFd5ZdN0YzWvkDPvCpCgmOQSDfjFTNMC45obJ6UTAJ\njXLzPVdBdF8KyWRrnvWpaI0pblvLBAchrrNQ+NmMZxWZzGcVd3oEszF/4YEUXW5d\noSqAHrbGF1BmTgwhRzcvxbONaR4q5zqifnwrxAAfMsL1G5SDIpqq6YRtXKxExqZd\nz3loaj8bAgMBAAECggEAArhtPtMqGj10d2+/80/2DlMDRnEEFanrQoWYyA2nRrzk\nm9MWbWwW2PvdqBycWdIZKDkkHFeoa7tAI+yHfpOzWbH2ViUTlu7uPvnwnOCwiwtE\nw0AWCICDoQpCpEFJfg/ZQp5g+HzkPsDBztjJ5AyVx9VR19qUby5iDd8RnDeAtCsw\n36fIP7iYdQBXnCIsyXJDnIlV4bf11nFOCvb1uoxgxDBHo/6CVWJQ8ntRq6ZeDFOp\njj1yqSHcUEXXNGRD4OSm4N+Uqid5nyuFagkWclCe7GjUK+0HwxEIGlsQ+yEBdyVI\nO6fbrAJSn2i4vyBBQa7lva5ZwTUuRtEpp5OCm2N17QKBgQD5KTM88ElPtleH83gn\n06b4mfHCXBPEB+TikwM9nhkj2uivjoOfCZjdZ735h6RR/T1gGFb+sTfWSuZQ/aVv\nG1HFESMpH8TEt4jjopidIcMHpZ7qc5mNIyslRvbHQFpSYRRUKUJS36qIwjXs47/p\n/Yao5w49wagUXAT/ClV9333rBQKBgQDErQMBnMCINvaQcDnS9eSsIcJUfNUasf+R\n0DwMsnT/vUvrY+v0eWBLb4pQulFKX2iH0jO2DXpIOVJec5af04V3VJVls52RiVVS\nCHtbN+uo25wrKk7yAm06ju3MQcMANtQnvS0jJkMaBAHBkleymfepOgkmNMVFvhAt\n5SrNtQjbnwKBgG0KW9MacWsCKLJlmbsMRHFdpdDiTQAoWEHUBsILk4L+hYB3BSEv\nqQeUJC607vO2uQp5/HCADCirJLpjFuhV82YkBtgzgAB7NdwxR0rVAK4zDCYcqyF6\nN6KbuNogTqbot2XRnKX6Hn61R7ZBQbbcbfczDyd1veITF1iqJBnvGgMlAoGAWFxy\nsVK/nXM0K4iAMiuPZVZ1fIfpJmk6LUSk9f9nWU6uwT7PT7MIdFvUhJhw1T0wNXVX\nDj/X5IL8YrsDvSLHH+m8hUjBThWpY4W0BjOFiQPBkhMcDNbSRDDa3Z3eAkaf4oq3\nsMcL9rA+Kb2Z8QADqOAOJEApMUBG/JetN2ZSaHkCgYEAzznCNbOsyKx3YPkVVjm1\nKSAWG+J9LmlRRQcM+YaBhwMKMlGFwDSGgdhlq0zjtrwR+v2V015ACwFwzuRxOhd4\nHfimaKB8mPRp9uYlo4QEVnunstmH3At3IWBTpfoa+0ISssre8zdzC9rvKbx/IWmy\nnSxzqJJCo3Y/ast9J7JzMQc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "classroomapp@western-arch-321815.iam.gserviceaccount.com",
+  "client_id": "103165545615386086211",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/classroomapp%40western-arch-321815.iam.gserviceaccount.com"
+}
