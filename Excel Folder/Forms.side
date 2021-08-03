@@ -1,0 +1,236 @@
+{
+  "id": "ff9c1edc-884e-4bf8-8e81-a9c494265f13",
+  "version": "2.0",
+  "name": "Forms",
+  "url": "https://docs.google.com/forms/u/0/",
+  "tests": [{
+    "id": "1ca9c572-5c05-4ca0-b2ce-928e9fccd20d",
+    "name": "Forms",
+    "commands": [{
+      "id": "27352ffe-9049-4eb6-8f78-478124ae45d9",
+      "comment": "",
+      "command": "open",
+      "target": "https://docs.google.com/forms/u/0/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "da2e0027-9268-4fb4-9f53-c9f07b2c604f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1371x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "43a46348-c46c-474b-81ca-004de78c5145",
+      "comment": "",
+      "command": "click",
+      "target": "css=#\\3A 38 > .docs-homescreen-grid-item-metadata-container",
+      "targets": [
+        ["css=#\\3A 38 > .docs-homescreen-grid-item-metadata-container", "css:finder"],
+        ["xpath=//div[@id=':38']/div[2]", "xpath:idRelative"],
+        ["xpath=//div[6]/div/div[2]/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ef3777c6-4fbc-494b-a87b-d7182776ead8",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormeditorViewTabResponsesViewTabContent",
+      "targets": [
+        ["css=.freebirdFormeditorViewTabResponsesViewTabContent", "css:finder"],
+        ["xpath=//div[@id='tJHJj']/div[3]/div/div/div[2]/span/div", "xpath:idRelative"],
+        ["xpath=//div[2]/span/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2ce02378-9148-41f7-9ccb-114e87888fe5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebird-qp-icon-spreadsheet-green:nth-child(1)",
+      "targets": [
+        ["css=.freebird-qp-icon-spreadsheet-green:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='ResponsesView']/div/div/div/div[2]/div/div/div/span/span/div/div", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div[2]/div/div/div/span/span/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c3476fe8-7a80-44cf-b5b6-166e56b54436",
+      "comment": "",
+      "command": "click",
+      "target": "css=.isUndragged .appsMaterialWizButtonPaperbuttonLabel",
+      "targets": [
+        ["css=.isUndragged .appsMaterialWizButtonPaperbuttonLabel", "css:finder"],
+        ["xpath=//body[@id='wizViewportRootId']/div[31]/div/div[2]/div[3]/div[2]/span/span", "xpath:idRelative"],
+        ["xpath=//div[31]/div/div[2]/div[3]/div[2]/span/span", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win2290",
+      "windowTimeout": 2000
+    }, {
+      "id": "5ba975f4-a997-4c3a-a622-62ca7714e401",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win2290}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b870d4a2-d5f5-4e89-8566-27b55221711a",
+      "comment": "",
+      "command": "editContent",
+      "target": "id=waffle-rich-text-editor",
+      "targets": [
+        ["id=waffle-rich-text-editor", "id"],
+        ["css=#waffle-rich-text-editor", "css:finder"],
+        ["xpath=//div[@id='waffle-rich-text-editor']", "xpath:attributes"],
+        ["xpath=//body/div[10]/div/div", "xpath:position"]
+      ],
+      "value": "<br><br>"
+    }, {
+      "id": "0a15f357-8523-4c08-ae23-369e276f5354",
+      "comment": "",
+      "command": "click",
+      "target": "css=.jfk-button-action",
+      "targets": [
+        ["css=.jfk-button-action", "css:finder"],
+        ["xpath=//span[@id='docs-titlebar-share-client-button']/div", "xpath:idRelative"],
+        ["xpath=//span/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "184d4508-a151-4447-9783-22e25599e163",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=4",
+      "targets": [
+        ["index=4"]
+      ],
+      "value": ""
+    }, {
+      "id": "e49d05d4-d68f-4ca8-9457-f300284bc682",
+      "comment": "",
+      "command": "click",
+      "target": "css=.mdc-deprecated-list-item__primary-text",
+      "targets": [
+        ["css=.mdc-deprecated-list-item__primary-text", "css:finder"],
+        ["xpath=//li[@id='c105']/span[3]/span", "xpath:idRelative"],
+        ["xpath=//span[3]/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ad8c4c2-e911-4088-9c18-ff3193943fa6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.mdc-deprecated-chip-trailing-action__ripple",
+      "targets": [
+        ["css=.mdc-deprecated-chip-trailing-action__ripple", "css:finder"],
+        ["xpath=//span[@id='c167']/button/span", "xpath:idRelative"],
+        ["xpath=//span/button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2808adf7-09c0-48d9-94a8-d565db025bbd",
+      "comment": "",
+      "command": "type",
+      "target": "id=_c10",
+      "targets": [
+        ["id=_c10", "id"],
+        ["css=#\\_c10", "css:finder"],
+        ["xpath=//input[@id='_c10']", "xpath:attributes"],
+        ["xpath=//div[@id='id-yk2j5k--j8nc63-pprkit']/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "https://docs.google.com/forms/u/0/"
+    }, {
+      "id": "8cb3f6bf-0a54-4456-b07e-b5b504958add",
+      "comment": "",
+      "command": "click",
+      "target": "css=.mdc-ripple-upgraded--foreground-activation > .mdc-button__ripple",
+      "targets": [
+        ["css=.mdc-ripple-upgraded--foreground-activation > .mdc-button__ripple", "css:finder"],
+        ["xpath=//div[@id='c4']/div/div/div/div/div/div[2]/div[2]/div/div[2]/button[3]/div", "xpath:idRelative"],
+        ["xpath=//button[3]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "df584c39-8e99-4b43-ac62-c1d5c507370f",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a18114c0-0d87-4cf2-b42e-d50d17dcecd3",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.gb_Ca",
+      "targets": [
+        ["css=.gb_Ca", "css:finder"],
+        ["xpath=//img[contains(@src,'https://lh3.googleusercontent.com/ogw/ADea4I61Bm2_PuiPF8LmfK-uaAS4sKODA9OpO5Y_AKLZ=s32-c-mo')]", "xpath:img"],
+        ["xpath=//div[@id='gb']/div/div/div[2]/div/a/img", "xpath:idRelative"],
+        ["xpath=//img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "83f8efb6-53b0-4d79-980f-3de5a4e5c42c",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.gb_Ca",
+      "targets": [
+        ["css=.gb_Ca", "css:finder"],
+        ["xpath=//img[contains(@src,'https://lh3.googleusercontent.com/ogw/ADea4I61Bm2_PuiPF8LmfK-uaAS4sKODA9OpO5Y_AKLZ=s32-c-mo')]", "xpath:img"],
+        ["xpath=//div[@id='gb']/div/div/div[2]/div/a/img", "xpath:idRelative"],
+        ["xpath=//img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f9edc4c9-f824-4cfb-a77f-deec7fd1b979",
+      "comment": "",
+      "command": "click",
+      "target": "css=.docs-title-input",
+      "targets": [
+        ["css=.docs-title-input", "css:finder"],
+        ["xpath=//input[@value='Copy of CLASS IX B CYCLE TEST 1 (Responses)']", "xpath:attributes"],
+        ["xpath=//div[@id='docs-title-widget']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5eb6308c-8b1a-470b-91d7-16b723a63c87",
+      "comment": "",
+      "command": "type",
+      "target": "css=.docs-title-input",
+      "targets": [
+        ["css=.docs-title-input", "css:finder"],
+        ["xpath=//input[@value='Copy of CLASS IX B CYCLE TEST 1 (Responses)']", "xpath:attributes"],
+        ["xpath=//div[@id='docs-title-widget']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Formfile"
+    }, {
+      "id": "53edc861-ee81-442b-ad59-59361ee3d893",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "css=.docs-title-input",
+      "targets": [
+        ["css=.docs-title-input", "css:finder"],
+        ["xpath=//input[@value='Copy of CLASS IX B CYCLE TEST 1 (Responses)']", "xpath:attributes"],
+        ["xpath=//div[@id='docs-title-widget']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }]
+  }],
+  "suites": [{
+    "id": "bc2f0c54-61bd-4835-8de9-de385ac6b925",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1ca9c572-5c05-4ca0-b2ce-928e9fccd20d"]
+  }],
+  "urls": [],
+  "plugins": []
+}
